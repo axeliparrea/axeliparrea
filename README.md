@@ -35,7 +35,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 
-![Ellaine's github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=merko&layout=compact)
+![Axel's github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=merko&layout=compact)
 
 
 <!---
