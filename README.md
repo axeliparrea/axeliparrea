@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Axel Eduardo Iparrea Ramos  
 
 🚀 **Tech Lead | Full-Stack Developer & AI Solutions Engineer | Cybersecurity Enthusiast**  
-🎓 **Computer Science Student @ Tecnológico de Monterrey**  
+🎓 **Computer Science @ Tecnológico de Monterrey**  
 
 I design and build **end-to-end applications, AI-powered automation, and enterprise-grade systems** that connect **AI, Cloud, and Cybersecurity** with real-world business impact.  
 
