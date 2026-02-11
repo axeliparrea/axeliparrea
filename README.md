@@ -170,11 +170,8 @@ Developed expertise in software engineering, AI/ML algorithms, and enterprise sy
 
 <div align="center">
 
-![Axel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axeliparrea&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axeliparrea&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=axeliparrea&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+![Axel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axeliparrea&theme=radical&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axeliparrea&layout=compact&theme=radical)
 
 </div>
 
